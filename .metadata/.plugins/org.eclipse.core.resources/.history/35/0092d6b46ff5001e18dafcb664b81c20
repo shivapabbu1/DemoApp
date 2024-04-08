@@ -1,0 +1,4 @@
+spring.application.name=demo
+server.port=6655
+spring.thymeleaf.prefix=classpath:/templates/views/
+spring.thymeleaf.suffix=.html

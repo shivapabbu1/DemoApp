@@ -1,19 +1,20 @@
 package com.example.demo;
 
-import org.springframework.stereotype.Controller;
+
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 
 
-@Controller
-@RequestMapping("/demoapp")
+@RestController
+@RequestMapping("/")
 public class HelloWorldController {
 
-       @GetMapping("/helloworld")
+       @GetMapping("helloworld")
        public String getHelloWorld() {
-	        return "helloworld"; 
+	        return "hello world"; 
 	    }
 	
 }
