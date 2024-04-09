@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;demo/src/main/template&apos; to &apos;templates&apos;" description="Rename resource &apos;template&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/template" name="templates" stamp="1712553319351" updateReferences="true"/>&#x0A;<refactoring comment="Move &apos;templates&apos; to &apos;resources&apos;" description="Move &apos;templates&apos; to &apos;resources&apos;" destination="src/main/resources" element1="src/main/templates" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1712553399679" updateReferences="true"/>
-</session>

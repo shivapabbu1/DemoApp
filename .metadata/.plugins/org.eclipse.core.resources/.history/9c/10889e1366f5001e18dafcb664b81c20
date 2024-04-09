@@ -1,4 +1,0 @@
-spring.application.name=demo
-
-spring.thymeleaf.prefix=classpath:/templates/views/
-spring.thymeleaf.suffix=.html
